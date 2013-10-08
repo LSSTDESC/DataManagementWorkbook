@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    {% endif %}
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link rel="stylesheet" media="screen" href="stylesheets/code.css" type="text/css" />
+	  <link rel="stylesheet" media="screen" href="stylesheets/page.css" type="text/css" />
+  </head>
+
+    <body>
+     <div class="top">
+      <header>
+        <div class="logo"><a href =""></a></div>
+        <a href="https://github.com/cwwalter/DESCSoftwareWorkBook" class="mini-button"><span>R</span>View it on GitHub</a>
+      </header>
+    </div>
+
+    <div id="content-wrapper">
+      <h1>{{ page.title }}</h1>
+
+       <div class="right">
+         <h2><span class="pictos">n</span> Site Pages </h2>
+         {% include sidebaritems.html %}
+       </div>
+
+      <div class="left">
+      {{ content }}
+      </div>
+      
+    </div>
+    
+  </body>
+</html>
