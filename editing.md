@@ -9,8 +9,10 @@ on github" button to go to the repository.  The code for this site is
 on in the "gh-pages" branch of the repository and uses the "github
 pages" service.  If you switch to the "gh-pages" branch you can see
 the files including this one.  The layout is done with CSS files
-modified from the teach.github.org site.  The text of the site is
-created in the "markdown" markup language for easy text editing.
+modified from the [teach.github.org](http://teach.github.com) site.
+The text of the site is created in the
+"[markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)"
+markup language for easy text editing.
 
 In order to edit the pages you can either clone a local copy of the
 repository and make the changes there or edit the files through the
