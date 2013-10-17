@@ -59,7 +59,7 @@ _External Links_ section below if you don't know how to do this.  In
 order for the tutorials to work you should "setup" both pipe_tasks and
 obs_llstSim.
 
-* View a read-only web version of the notebook [here][nbviewer#1] and download  a local copy of the  notebook [here][rawnotebook#1]
+* __View a read-only web version of the notebook [here][nbviewer#1] and download  a local copy of the  notebook [here][rawnotebook#1]__
 * A copy of the phosim file used in the introduction notebook is
  [here][phosimFile]. You should download this file if you want to run
  the  notebooks and have not created it yourself by running phosim.
@@ -75,7 +75,7 @@ DM. They are a heavily used feature in the detection and
 characterization algorithms and work somewhat differently than the
 standard container classes you might be used to.
 
-* View a web version of the notebook [here][nbviewer#2] and download  a local copy of the  notebook [here][rawnotebook#2]
+* __View a web version of the notebook [here][nbviewer#2] and download  a local copy of the  notebook [here][rawnotebook#2]__
 
 [nbviewer#2]:       http://nbviewer.ipython.org/url/raw.github.com/cwwalter/DESCSoftwareWorkBook/master/Table%20and%20Catalog%20Introduction.ipynb
 
@@ -90,7 +90,7 @@ notebooks so you can see how they are implemented. Note to run these
 as a notebook you will need to have rearranged your phosim output as
 explained by the link in the _External References_ below.
 
-* View a web version of the notebook [here][nbviewer#3] and download  a local copy of the  notebook [here][rawnotebook#3]
+* __View a web version of the notebook [here][nbviewer#3] and download  a local copy of the  notebook [here][rawnotebook#3]__
 
 [nbviewer#3]: http://nbviewer.ipython.org/url/raw.github.com/cwwalter/DESCSoftwareWorkBook/master/Command%20Line%20Task.ipynb
 
