@@ -17,10 +17,11 @@ repository and make the changes there or edit the files through the
 github web interface but clicking on the file and choosing the "Edit"
 button. As explained in the [Github
 Pages](https://help.github.com/categories/20/articles) documentation
-the code is periodically rebuilt into a website.  There may be a delay
-of up to several minutes for this to happen.  You can however
-immediately see the rendered markdown layout through the web interface
-for the files if you so wish.
+the code is periodically rebuilt into a website.  This usually happens
+quickly but, if you are making many changes in a short time period,
+there is often a delay of up to several minutes for this to happen.
+You can however immediately see the rendered markdown layout through
+the web interface for the files if you so wish.
 
 So, in short: to edit this web site switch to the gh-pages branch edit
 the appropriate files there and commit them back to the repository.
