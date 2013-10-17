@@ -14,7 +14,7 @@ created in the "markdown" markup language for easy text editing.
 
 In order to edit the pages you can either clone a local copy of the
 repository and make the changes there or edit the files through the
-github web interface but clicking on the file and choosing the "Edit"
+github web interface by clicking on the file and choosing the "Edit"
 button. As explained in the [Github
 Pages](https://help.github.com/categories/20/articles) documentation
 the code is periodically rebuilt into a website.  This usually happens
