@@ -23,7 +23,7 @@ there is often a delay of up to several minutes for this to happen.
 You can however immediately see the rendered markdown layout through
 the web interface for the files if you so wish.
 
-So, in short: to edit this web site switch to the gh-pages branch edit
+So, in short: to edit this web site switch to the gh-pages branch, edit
 the appropriate files there and commit them back to the repository.
 
 
