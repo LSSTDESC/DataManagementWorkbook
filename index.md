@@ -1,6 +1,6 @@
 ---
 layout: pagewithsidebar
-title:  Dark Energy Science Collaboration Software Workbook
+title:  Dark Energy Science Collaboration Software Tutorials and References
 ---
 
 <!---
