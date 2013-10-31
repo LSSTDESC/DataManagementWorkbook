@@ -18,7 +18,7 @@ can edit this page and also add and edit the ipython notebooks
 themselves.  See the links on the right hand side for instruction on
 how to edit the pages.
 
-Currently, this site contains a set up DM tutorials.  Each tutorial
+Currently, this site contains a set of DM tutorials.  Each tutorial
 has been implemented as an [iPython][ipython] notebook. For each
 iPython notebook there is a link that will allow you to view them in a
 read-only mode in your web browser.  A link is also provided to the
