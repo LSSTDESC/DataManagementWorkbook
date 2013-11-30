@@ -1,4 +1,4 @@
-DESCSoftwareWorkBook
+DataManagementWorkbook
 ====================
 
-Introduction to the the DESC software stack including Data Management (DM) 
+Python notebooks and tutorials for LSST data management software
