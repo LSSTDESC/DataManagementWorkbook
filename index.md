@@ -64,9 +64,9 @@ obs_llstSim.
  [here][phosimFile]. You should download this file if you want to run
  the  notebooks and have not created it yourself by running phosim.
  
-[nbviewer#1]:        http://nbviewer.ipython.org/url/raw.github.com/cwwalter/DESCSoftwareWorkBook/master/Basic%20DM%20AFW%20Introduction.ipynb "Intro to AFW"
-[rawnotebook#1]: https://rawgithub.com/cwwalter/DESCSoftwareWorkBook/master/Basic%20DM%20AFW%20Introduction.ipynb
-[phosimFile]:         https://rawgithub.com/cwwalter/DESCSoftwareWorkBook/gh-pages/files/lsst_e_99999999_f2_R22_S11_E000.fits.gz
+[nbviewer#1]:        http://nbviewer.ipython.org/url/raw.github.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/master/Basic%20DM%20AFW%20Introduction.ipynb "Intro to AFW"
+[rawnotebook#1]: https://rawgithub.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/master/Basic%20DM%20AFW%20Introduction.ipynb
+[phosimFile]:         https://rawgithub.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/gh-pages/files/lsst_e_99999999_f2_R22_S11_E000.fits.gz
 
 ### Tables and Catalogs
 
@@ -77,9 +77,9 @@ standard container classes you might be used to.
 
 * __View a web version of the notebook [here][nbviewer#2] and download  a local copy of the  notebook [here][rawnotebook#2]__
 
-[nbviewer#2]:       http://nbviewer.ipython.org/url/raw.github.com/cwwalter/DESCSoftwareWorkBook/master/Table%20and%20Catalog%20Introduction.ipynb
+[nbviewer#2]:       http://nbviewer.ipython.org/url/raw.github.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/master/Table%20and%20Catalog%20Introduction.ipynb
 
-[rawnotebook#2]: https://rawgithub.com/cwwalter/DESCSoftwareWorkBook/master/Table%20and%20Catalog%20Introduction.ipynb
+[rawnotebook#2]: https://rawgithub.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/master/Table%20and%20Catalog%20Introduction.ipynb
 
 ### Command Line Tasks
 
@@ -92,9 +92,9 @@ explained by the link in the _External References_ below.
 
 * __View a web version of the notebook [here][nbviewer#3] and download  a local copy of the  notebook [here][rawnotebook#3]__
 
-[nbviewer#3]: http://nbviewer.ipython.org/url/raw.github.com/cwwalter/DESCSoftwareWorkBook/master/Command%20Line%20Task.ipynb
+[nbviewer#3]: http://nbviewer.ipython.org/url/raw.github.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/master/Command%20Line%20Task.ipynb
 
-[rawnotebook#3]: https://rawgithub.com/cwwalter/DESCSoftwareWorkBook/master/Command%20Line%20Task.ipynb
+[rawnotebook#3]: https://rawgithub.com/DarkEnergyScienceCollaboration/DataManagementWorkbook/master/Command%20Line%20Task.ipynb
 
 ### Useful topics that are not yet covered
 
